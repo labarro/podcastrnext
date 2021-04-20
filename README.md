@@ -1,6 +1,6 @@
 <h1 align="center">Next Level Week 5.0</h1>
 <p align="center">
-<img src="./.github/logo.svg"/>
+<img src="./public/logo.svg"/>
 
 
 
@@ -9,12 +9,6 @@
 
 ![GitHub top language](https://img.shields.io/github/languages/count/Nandosbx/podcastr-next?color=5965e0&&style=for-the-badge&logo=appveyor)![GitHub top language](https://img.shields.io/github/languages/top/Nandosbx/podcastr-next?color=5965e0&&style=for-the-badge&logo=appveyor)![GitHub last commit](https://img.shields.io/github/last-commit/Nandosbx/podcastr-next?color=5965e0&&style=for-the-badge&logo=appveyor)![GitHub repo size](https://img.shields.io/github/repo-size/Nandosbx/podcastr-next?color=5965e0&&style=for-the-badge&logo=appveyor)![GitHub issues](https://img.shields.io/github/issues/Nandosbx/podcastr-next?color=5965e0&&style=for-the-badge&logo=appveyor)
 </div>
-
-<p align="center">
-<img src=""/>
-</p>
-
-
 ------------
 
 <h2>📖 About</h2>
