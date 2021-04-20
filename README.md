@@ -7,7 +7,7 @@
 <div align="center">
 <img src="https://img.shields.io/badge/ROCKETSEAT-NLW%205.0-5965e0?style=for-the-badge&logo=appveyor"/><img src="https://img.shields.io/badge/LICENSE-MIT-5965e0?style=for-the-badge&logo=appveyor" />
 
-![GitHub top language](https://img.shields.io/github/languages/count/labarro/podcastrnext?color=5965e0&&style=for-the-badge&logo=appveyor)![GitHub top language](https://img.shields.io/github/languages/top/labarro/podcastrnext?color=5965e0&&style=for-the-badge&logo=appveyor)![GitHub last commit](https://img.shields.io/github/last-commit/labarro/podcastrnext?color=5965e0&&style=for-the-badge&logo=appveyor)![GitHub repo size](https://img.shields.io/github/repo-size/labarro/podcastrnext?color=5965e0&&style=for-the-badge&logo=appveyor)![GitHub issues](https://img.shields.io/github/issues/labarro/podcastrnext?color=5965e0&&style=for-the-badge&logo=appveyor)
+![GitHub top language](https://img.shields.io/github/languages/count/labarro/podcastrnext?color=5965e0&&style=for-the-badge&logo=appveyor)![GitHub top language](https://img.shields.io/github/languages/top/labarro/podcastrnext?color=5965e0&&style=for-the-badge&logo=appveyor)![GitHub last commit](https://img.shields.io/github/last-commit/labarro/podcastrnext?color=5965e0&&style=for-the-badge&logo=appveyor)![GitHub issues](https://img.shields.io/github/issues/labarro/podcastrnext?color=5965e0&&style=for-the-badge&logo=appveyor)
 </div>
 ------------
 
@@ -33,6 +33,13 @@ This project was developed with:
 - [Nextjs](https://nextjs.org/ "Nextjs")
 
 - [Typescript](https://www.typescriptlang.org/ "Typescript")
+
+------------
+
+
+<h2>📃License</h2>
+
+This project is under MIT License. Access <a href="https://github.com/labarro/podcastrnext/blob/main/LICENSE">License</a> and learn more.
 
 ------------
 <footer align="center">
